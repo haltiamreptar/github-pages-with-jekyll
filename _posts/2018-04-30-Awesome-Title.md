@@ -1,5 +1,5 @@
 ----
-title: Awesome Title
+title: "Awesome Title"
 date: 2018-04-30
 ----
 
